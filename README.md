@@ -24,7 +24,7 @@ El proyecto está compuesto por los siguientes archivos:
 
 ## Instalación
 
-Para instalar y ejecutar el proyecto, se debe tener Python 3 instalado, luego, sigue estos pasos:
+Para instalar y ejecutar el proyecto, se debe tener Python 3 instalado, luego, se sigue estos pasos:
 
 1. Clonar este repositorio o descargar los archivos.
    
