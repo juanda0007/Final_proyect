@@ -1,5 +1,5 @@
 # Sopa de Letras - Buscador de Palabras
-
+### AUTOR:  JUAN DAVID TABARES PEREZ
 ## Descripción
 
 Este proyecto consiste en una implementación de un programa para buscar palabras dentro de una sopa de letras, en general, el programa lee un archivo .txt que contiene la sopa de letras y una lista de palabras a buscar, luego, verifica si esas palabras se encuentran en la sopa en varias direcciones, de izquierda a derecha, de derecha a izquierda, de arriba hacia abajo, de abajo hacia arriba, y en las diagonales.
